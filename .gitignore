@@ -1,5 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
+detection.py
+
 
 # Distribution / packaging
 .Python
@@ -111,8 +113,3 @@ venv.bak/
 # IDE
 .vscode/
 
-# Large data files
-data/raw/
-data/processed/*.mp4
-data/processed/*.avi
-data/video/raw/*
